@@ -83,7 +83,6 @@ The categories for this plug-in are as follows:
 ## Release Notes
 
 | Date | Version | Note |
-
 | :---: | :---: | :--- |
 | 12/07/2023 | 1.0.0 | Initial release |
 | 12/08/2023 | 1.0.1 | Added ability to set objects By Class |
