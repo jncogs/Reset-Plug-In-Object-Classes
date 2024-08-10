@@ -82,6 +82,7 @@ The categories for this plug-in are as follows:
 
 ## Release Notes
 
+
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 12/07/2023 | 1.0.0 | Initial release |
