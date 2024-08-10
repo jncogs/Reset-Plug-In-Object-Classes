@@ -94,6 +94,10 @@ The categories for this plug-in are as follows:
 
 No Known Bugs
 
+| Test 1 | Test 2 | Test 3|
+| ------ | ------ | ------ |
+| Aha | Aha | aha | 
+
 ## Feature Requests
 
 No current Feature Requests
