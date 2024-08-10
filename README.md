@@ -2,7 +2,7 @@
 Menu Command
 
 ## Version
-1.1.1 - 03/22/2024
+1.1.2 - 08/10/2024
 
 ## Description
 Opens a dialog box allowing User to change all plug-in objects of matching types to a given class
@@ -13,13 +13,22 @@ Opens a dialog box allowing User to change all plug-in objects of matching types
 3. Check **Change Class** checkbox
 4. Select new **Class** from dropdown
 5. If desired, check **Set Attributes By Class** checkbox to also set all attributes for affected PIO objects to be **By Class**
-6. Press **OK** button to force desired Plug-in Objects to use newly selected Classes
+6. Press **OK** button to force desired Plug-in Objects to use newly chosen Classes
 
 ## Dialog Box Explanation
-Dialog box explanation
-
-## Example Screenshots as necessary
-Examples
+![Dialog Box Example](images/dialog-box-example.jpg)
+1. Column listing all Plug-in Object (PIO) types found in the active drawing.
+2. Column listing count of PIOs found in the active drawing.
+3. Column listing the new Class chosen for the PIO.  PIOs with new Classes will be listed in <span style="color:red">Red</span>.
+4. Column showing PIOs with **Set Attributes By Class** selected.
+5. The currently selected PIO will by highlighted in the List Browser. Multiple PIOs may be selected at a time.
+6. Checking the **Change Class** checkbox will set the PIO for Class replacement. Unchecking the box will clear the **New Class** and **By Class** columns for the selected PIOs.
+7. Class drop-down menu. Use this to select the new Class for the selected PIOs.
+8. Checking the **Set Attributes By Class** checkbox will set all Attributes for affected PIOs to be **By Class**.
+9. Counter displaying number of affected objects in the active drawing.
+10. **Help Box**, mousing over any dialog box element will display an explanation here.
+11. Pressing the **OK** button will close the dialog box and change the Class of all PIOs with a chosen new Class.
+12. Pressing the **Cancel** button will close the dialog box without affecting any PIOs.
 
 ## Installation Instructions
 There are two methods of installation, direct download of the plug-in or through the **JNC Tools Free Manager** plug-in.
@@ -67,7 +76,8 @@ The categories for this plug-in are as follows:
 | :---: | :---: | :--- |
 | 12/07/2023 | 1.0.0 | Initial release |
 | 12/08/2023 | 1.0.1 | Added ability to set objects By Class |
-| 03/22/2024 | 1.1.1 | Fixed bug with Callout objects not taking By Class|
+| 03/22/2024 | 1.1.1 | Fixed bug with Callout objects not taking By Class |
+| 08/10/2024 | 1.1.2 | Fixed bug preventing User from unchecking Change Class checkbox |
 
 ## Known Bugs
 No Known Bugs
