@@ -1,13 +1,17 @@
 # Reset Plug-in Object Classes
+
 Menu Command
 
 ## Version
+
 1.1.2 - 08/10/2024
 
 ## Description
+
 Opens a dialog box allowing User to change all plug-in objects of matching types to a given class
 
 ## Instructions
+
 1. Run menu command
 2. Select desired Plug-in Object type to alter
 3. Check **Change Class** checkbox
@@ -16,6 +20,7 @@ Opens a dialog box allowing User to change all plug-in objects of matching types
 6. Press **OK** button to force desired Plug-in Objects to use newly chosen Classes
 
 ## Dialog Box Explanation
+
 ![Dialog Box Example](images/dialog-box-example.jpg)
 1. Column listing all Plug-in Object (PIO) types found in the active drawing.
 2. Column listing count of PIOs found in the active drawing.
@@ -31,14 +36,17 @@ Opens a dialog box allowing User to change all plug-in objects of matching types
 12. Pressing the **Cancel** button will close the dialog box without affecting any PIOs.
 
 ## Installation Instructions
+
 There are two methods of installation, direct download of the plug-in or through the **JNC Tools Free Manager** plug-in.
 
 ### Direct Download:
+
 1. Download [source plug-in file](Reset%20Plug-in%20Obj%20Classes.vsm)
 2. Place downloaded file inside the **Vectorworks User Folder** within the **Plug-ins** directory
 3. Restart Vectorworks
 
 ### JNC Tools Free Manager
+
 1. Run the **JNC Tools Free Manager** menu command
 2. Select the **Reset Plug-in Obj Classes** command
 3. Press the **Install / Update** button
@@ -46,6 +54,7 @@ There are two methods of installation, direct download of the plug-in or through
 5. Restart Vectorworks
 
 ## Adding the Plug-in to your Workspace
+
 1. Open the **Workspace Editor** by going to **Tools - Workspaces - Edit Current Workspace**
 2. Select the **Menus** tab
 3. In the box on the left, find and expand the **JNC** category
@@ -72,6 +81,7 @@ The categories for this plug-in are as follows:
 - **5000** - *Misc Strings*:  These strings serve  multiple purposes in the code, only string **5000** should be changed
 
 ## Release Notes
+
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 12/07/2023 | 1.0.0 | Initial release |
@@ -80,13 +90,16 @@ The categories for this plug-in are as follows:
 | 08/10/2024 | 1.1.2 | Fixed bug preventing User from unchecking Change Class checkbox |
 
 ## Known Bugs
+
 No Known Bugs
 
 ## Feature Requests
+
 No current Feature Requests
 
 
 ## License
+
 Copywrite (c) Jesse Cogswell (JNC Tools)
 
 Permission is hereby granted, free of charge, to any person or organization
