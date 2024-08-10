@@ -25,7 +25,7 @@ Examples
 There are two methods of installation, direct download of the plug-in or through the **JNC Tools Free Manager** plug-in.
 
 ### Direct Download:
-1. Download [source plug-in file]([Reset-Plug-in-Obj-Classes.vsm](Reset%20Plug-in%20Obj%20Classes.vsm)
+1. Download [source plug-in file](Reset%20Plug-in%20Obj%20Classes.vsm)
 2. Place downloaded file inside the **Vectorworks User Folder** within the **Plug-ins** directory
 3. Restart Vectorworks
 
