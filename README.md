@@ -6,6 +6,8 @@ Menu Command
 
 1.1.2 - 08/10/2024
 
+This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer.
+
 ## Description
 
 Opens a dialog box allowing User to change all plug-in objects of matching types to a given class
